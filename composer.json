@@ -12,23 +12,7 @@
         }
     ],
     "require":{
-        "php":">=5.3.3",
-        "symfony/symfony": "2.1.*",
-        "doctrine/orm":">=2.2.3,<2.4-dev",
-        "doctrine/doctrine-fixtures-bundle":"dev-master",
-        "sonata-project/admin-bundle":"2.1.*",
-        "sonata-project/doctrine-orm-admin-bundle":"2.1.*",
-        "sonata-project/user-bundle":"2.1.*",
-        "sonata-project/media-bundle":"2.1.*",
-        "sonata-project/formatter-bundle": "2.1.*",
-        "stof/doctrine-extensions-bundle":"dev-master",
-        "mopa/bootstrap-bundle":"dev-master",
-        "twitter/bootstrap":"master",
-        "knplabs/knp-paginator-bundle":"dev-master",
-        "knplabs/knp-menu-bundle":"1.1.*",
-        "symfony-cmf/routing-extra-bundle":"dev-master",
-        "jms/serializer-bundle":"master",
-        "ibrows/sonata-admin-annotation-bundle":"1.1.0"
+        "php":">=5.3.3"
     },
     "autoload":{
         "psr-0":{
